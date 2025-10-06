@@ -1,10 +1,11 @@
 {
-  "name": "unicode-math",
+  "name": "unicode-math-symbols",
   "displayName": "Unicode Math Symbols",
   "description": "Type LaTeX-like \\alpha, \\to, \\subseteq, etc., and get Unicode math symbols everywhere. Supports greek letters, arrows, logic, and any other mathematical symbols available as unicode character.",
   "version": "0.0.1",
   "publisher": "LucasAschenbach",
   "repository": "https://github.com/LucasAschenbach/vscode-unicode-math",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.104.0"
   },
