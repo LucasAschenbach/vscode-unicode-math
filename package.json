@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "publisher": "LucasAschenbach",
   "repository": "https://github.com/LucasAschenbach/vscode-unicode-math",
-  "icon": "images/icon.png",
+  "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.104.0"
   },
