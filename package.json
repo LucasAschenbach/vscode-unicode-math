@@ -4,6 +4,7 @@
   "description": "Type LaTeX-like \\alpha, \\to, \\subseteq, etc., and get Unicode math symbols everywhere. Supports greek letters, arrows, logic, and any other mathematical symbols available as unicode character.",
   "version": "0.0.1",
   "publisher": "99ed3dde-d57a-67bd-b992-0df26d96a79c",
+  "repository": "https://github.com/LucasAschenbach/vscode-unicode-math",
   "engines": {
     "vscode": "^1.104.0"
   },
