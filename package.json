@@ -57,10 +57,6 @@
       {
         "language": "ruby",
         "path": "./snippets/snippets.code-snippets"
-      },
-      {
-        "language": "julia",
-        "path": "./snippets/snippets.code-snippets"
       }
     ]
   }
