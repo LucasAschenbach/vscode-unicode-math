@@ -20,6 +20,8 @@ Type LaTeX-style math commands like `\alpha`, `\sum`, or `\subseteq` anywhere in
 | `\subseteq`   | ⊆          | Subset or equal    |
 | `\Rightarrow` | ⇒          | Implies            |
 | `\mathbb{R}`  | ℝ          | Real numbers       |
+| `\_1`         | ₁          | Subscript 1        |
+| `\tilde`      | ˜          | Accent Tilde       |
 
 ---
 
