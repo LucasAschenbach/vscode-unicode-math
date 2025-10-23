@@ -14,50 +14,26 @@
   ],
   "contributes": {
     "snippets": [
-      {
-        "language": "plaintext",
-        "path": "./snippets/snippets.code-snippets"
-      },
-      {
-        "language": "markdown",
-        "path": "./snippets/snippets.code-snippets"
-      },
-      {
-        "language": "javascript",
-        "path": "./snippets/snippets.code-snippets"
-      },
-      {
-        "language": "typescript",
-        "path": "./snippets/snippets.code-snippets"
-      },
-      {
-        "language": "python",
-        "path": "./snippets/snippets.code-snippets"
-      },
-      {
-        "language": "cpp",
-        "path": "./snippets/snippets.code-snippets"
-      },
-      {
-        "language": "c",
-        "path": "./snippets/snippets.code-snippets"
-      },
-      {
-        "language": "java",
-        "path": "./snippets/snippets.code-snippets"
-      },
-      {
-        "language": "rust",
-        "path": "./snippets/snippets.code-snippets"
-      },
-      {
-        "language": "go",
-        "path": "./snippets/snippets.code-snippets"
-      },
-      {
-        "language": "ruby",
-        "path": "./snippets/snippets.code-snippets"
-      }
+      { "language": "plaintext", "path": "./snippets/snippets.code-snippets" },
+      { "language": "markdown", "path": "./snippets/snippets.code-snippets" },
+
+      { "language": "python", "path": "./snippets/math-unicode.json" },
+      { "language": "javascript", "path": "./snippets/math-unicode.json" },
+      { "language": "typescript", "path": "./snippets/math-unicode.json" },
+      { "language": "c", "path": "./snippets/math-unicode.json" },
+      { "language": "cpp", "path": "./snippets/math-unicode.json" },
+      { "language": "csharp", "path": "./snippets/math-unicode.json" },
+      { "language": "java", "path": "./snippets/math-unicode.json" },
+      { "language": "go", "path": "./snippets/math-unicode.json" },
+      { "language": "rust", "path": "./snippets/math-unicode.json" },
+      { "language": "kotlin", "path": "./snippets/math-unicode.json" },
+      { "language": "scala", "path": "./snippets/math-unicode.json" },
+      { "language": "swift", "path": "./snippets/math-unicode.json" },
+      { "language": "dart", "path": "./snippets/math-unicode.json" },
+      { "language": "ruby", "path": "./snippets/math-unicode.json" },
+      { "language": "php", "path": "./snippets/math-unicode.json" },
+      { "language": "r", "path": "./snippets/math-unicode.json" },
+      { "language": "matlab", "path": "./snippets/math-unicode.json" }
     ]
   }
 }
