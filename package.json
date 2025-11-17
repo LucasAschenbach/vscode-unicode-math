@@ -7,7 +7,7 @@
   "repository": "https://github.com/LucasAschenbach/vscode-unicode-math",
   "icon": "assets/icon.png",
   "engines": {
-    "vscode": "^1.104.0"
+    "vscode": "^1.30.0"
   },
   "categories": [
     "Snippets"
