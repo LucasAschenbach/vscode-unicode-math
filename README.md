@@ -1,4 +1,4 @@
-# Unicode Math Snippets
+# Unicode Math Symbols
 
 Type LaTeX-style math commands like `\alpha`, `\sum`, or `\subseteq` anywhere in VS Code and instantly insert their corresponding Unicode character.
 
@@ -27,10 +27,10 @@ Type LaTeX-style math commands like `\alpha`, `\sum`, or `\subseteq` anywhere in
 
 ## Installation
 
-Search for **“Unicode Math Snippets”** in the VS Code Marketplace or install manually:
+Search for **“Unicode Math Symbols** in the VS Code Marketplace or install manually:
 
 ```bash
-code --install-extension your-name.unicode-math-snippets
+code --install-extension your-name.unicode-math-symbols
 ```
 
 ## Usage Tips
@@ -52,7 +52,7 @@ To run locally:
 ```bash
 npm install -g vsce
 vsce package
-code --install-extension unicode-math-snippets-*.vsix
+code --install-extension unicode-math-symbols-*.vsix
 ```
 
 ## License
