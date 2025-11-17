@@ -27,7 +27,7 @@ Type LaTeX-style math commands like `\alpha`, `\sum`, or `\subseteq` anywhere in
 
 ## Installation
 
-Search for **“Unicode Math Symbols** in the VS Code Marketplace or install manually:
+Search for **“Unicode Math Symbols”** in the VS Code Marketplace or install manually:
 
 ```bash
 code --install-extension your-name.unicode-math-symbols
